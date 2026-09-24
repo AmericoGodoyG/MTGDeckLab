@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MTGDeckLab.API/MTGDeckLab.API.csproj" />
+  <Project Path="MTGDeckLab.Application/MTGDeckLab.Application.csproj" />
+  <Project Path="MTGDeckLab.Domain/MTGDeckLab.Domain.csproj" />
+  <Project Path="MTGDeckLab.Infrastructure/MTGDeckLab.Infrastructure.csproj" />
+  <Project Path="MTGDeckLab.Tests/MTGDeckLab.Tests.csproj" />
+</Solution>
