@@ -2,8 +2,6 @@
 
 > Gerenciador, analisador e simulador de decks de **Magic: The Gathering**, desenvolvido com foco em arquitetura de software, análise de dados e experiência de usuário.
 
-![MTG Deck Lab — Interface](./assets/interface-preview.png)
-
 ## Sobre o projeto
 
 O **MTG Deck Lab** é uma aplicação desktop para gerenciamento e análise de decks de Magic: The Gathering.
