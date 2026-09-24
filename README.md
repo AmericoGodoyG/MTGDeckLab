@@ -1,4 +1,4 @@
-# MTG Deck Lab
+<img width="1536" height="1024" alt="interface-preview" src="https://github.com/user-attachments/assets/ab3a2f72-7fc2-42e2-b4b3-4e51441afb10" /># MTG Deck Lab
 
 > Gerenciador, analisador e simulador de decks de **Magic: The Gathering**, desenvolvido com foco em arquitetura de software, análise de dados e experiência de usuário.
 
